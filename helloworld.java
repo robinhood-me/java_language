@@ -8,6 +8,7 @@
 // try again - change webhook to https from http and left SSL verify on
 // try again - turn off SSL verify
 // try again - Config Global Sec Jenkins Manage > turn off CSRF protection
+// try again - adding a secret in github webhook secret field - 007 a change
 
 public class HelloWorld {
 
