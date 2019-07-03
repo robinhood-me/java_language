@@ -7,6 +7,7 @@
 // and again
 // try again - change webhook to https from http and left SSL verify on
 // try again - turn off SSL verify
+// try again - Config Global Sec Jenkins Manage > turn off CSRF protection
 
 public class HelloWorld {
 
