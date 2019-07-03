@@ -6,6 +6,7 @@
 // push to github for jenkins trigger build test
 // and again
 // try again - change webhook to https from http and left SSL verify on
+// try again - turn off SSL verify
 
 public class HelloWorld {
 
